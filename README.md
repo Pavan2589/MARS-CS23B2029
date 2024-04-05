@@ -1,6 +1,18 @@
 # MARS TASK 01 LIGHT DOSE
 
 Mars Task 01 involves utilizing fundamental Linux command lines and scripting a Bash script. The script should accept a Current Working Directory as input and recursively search for files with a .txt extension within it. It then copies all found files, changing their extension to .bak.
+
+## SHELL SCRIPTING
+
+### IMPLEMENTATION
+1.Save the script as a Bash file (e.g., copy_and_modify.sh).
+
+2.Run the script from the terminal: bash copy_and_modify.sh
+
+3.Enter the CWD when prompted.
+
+4.The script will process the files and create the "Modified" directory with the modified .bak files.
+
 ##  CUSTOM DATA TYPE AND LAMBDA FUCNTIONS
 
 ### IMPLEMENTATION:
